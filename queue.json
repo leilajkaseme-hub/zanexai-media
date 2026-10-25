@@ -703,5 +703,18 @@
 "thumb_offset_ms": 1000,
 "location_id": "108424279189115",
 "audio_name": "Zane AI original audio"
+},
+{
+"id": "tiktok_2026-10-20_short_remove-phone-people-search_1792901051",
+"platform": "tiktok",
+"at": "2026-10-25T17:13:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-20_short_remove-phone-people-search_tt-1792901015.mp4",
+"text": "3 of 5 people search sites blocked my robot before the page even loaded 🤖 would you trust claude in chrome with the rest? #privacy #claude #ai #dataprivacy",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-20_short_remove-phone-people-search",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-20_short_remove-phone-people-search_cover-1792900991.jpg"
 }
 ]
