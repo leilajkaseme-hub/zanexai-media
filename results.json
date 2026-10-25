@@ -1,1 +1,527 @@
-[]
+[
+{
+"id": "ig_v2_anthropic_1019",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/Dep26GSDLDZ/",
+"error": null,
+"posted": "2026-10-18T23:25:59+00:00"
+},
+{
+"id": "ig_v2_roast_1019",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/DeqLdXuiqvM/",
+"error": null,
+"posted": "2026-10-19T02:25:31+00:00"
+},
+{
+"id": "ig_v2_tokens_1019",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/DeqAxtEiAps/",
+"error": null,
+"posted": "2026-10-19T00:52:02+00:00"
+},
+{
+"id": "tt_v2_anthropic_1019",
+"status": "failed",
+"permalink": null,
+"error": "tiktok_post.mjs exit 1: 2026-10-18T23:57:20.932Z ERROR upload not finished after 10 minutes (status \"\")",
+"posted": null
+},
+{
+"id": "tt_v2_roast_1019",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7698204624003599638",
+"error": null,
+"posted": "2026-10-19T02:46:59+00:00"
+},
+{
+"id": "tt_v2_tokens_1019",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7698193520628075798",
+"error": null,
+"posted": "2026-10-19T02:03:40+00:00"
+},
+{
+"id": "tt_v2_anthropic_1019_retry",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7698162726597578006",
+"error": null,
+"posted": "2026-10-19T00:03:50+00:00"
+},
+{
+"id": "instagram_2026-10-20_short_stop-claude-agreeing_1792443112",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/DesVc6cj4RC/",
+"error": null,
+"posted": "2026-10-19T22:31:18+00:00"
+},
+{
+"id": "tiktok_2026-10-20_short_stop-claude-agreeing_1792443113",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7698510336164384022",
+"error": null,
+"posted": "2026-10-19T22:32:29+00:00"
+},
+{
+"id": "instagram_2026-10-20_short_never-paste-into-ai_1792529105",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/DeuxuoDFEx7/",
+"error": null,
+"posted": "2026-10-20T21:16:54+00:00"
+},
+{
+"id": "tiktok_2026-10-20_short_never-paste-into-ai_1792529105",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7698862261305199875",
+"error": null,
+"posted": "2026-10-20T21:18:10+00:00"
+},
+{
+"id": "instagram_2026-10-20_short_free-elevenlabs-alternative_1792529122",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/Deu6j6tDXzK/",
+"error": null,
+"posted": "2026-10-20T22:33:52+00:00"
+},
+{
+"id": "tiktok_2026-10-20_short_free-elevenlabs-alternative_1792529122",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7698882065038576919",
+"error": null,
+"posted": "2026-10-20T22:35:04+00:00"
+},
+{
+"id": "instagram_2026-10-20_short_7-dollar-chip-ai-iphone_1792529157",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/DevCyg5AHUt/",
+"error": null,
+"posted": "2026-10-20T23:45:48+00:00"
+},
+{
+"id": "tiktok_2026-10-20_short_7-dollar-chip-ai-iphone_1792529157",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7698900527240809750",
+"error": null,
+"posted": "2026-10-20T23:46:57+00:00"
+},
+{
+"id": "instagram_2026-10-19_short_100-agents-fight_1792529267",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/Dexe51jgILI/",
+"error": null,
+"posted": "2026-10-21T22:30:02+00:00"
+},
+{
+"id": "tiktok_2026-10-19_short_100-agents-fight_1792529267",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7699253669845355798",
+"error": null,
+"posted": "2026-10-21T22:37:11+00:00"
+},
+{
+"id": "threads_2026-10-20_short_7-dollar-chip-ai-iphone_1792529157",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/DevC_16DdHT",
+"error": null,
+"posted": "2026-10-20T23:47:35+00:00"
+},
+{
+"id": "threads_2026-10-19_short_100-agents-fight_1792529267",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/Dexfz4HjEnE",
+"error": null,
+"posted": "2026-10-21T22:37:49+00:00"
+},
+{
+"id": "threads_2026-10-20_short_never-paste-into-ai_1792529105",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/DexEAJCDt-U",
+"error": null,
+"posted": "2026-10-21T18:34:50+00:00"
+},
+{
+"id": "threads_2026-10-20_short_free-elevenlabs-alternative_1792529122",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/DexJPFaDN4v",
+"error": null,
+"posted": "2026-10-21T19:20:33+00:00"
+},
+{
+"id": "instagram_2026-10-19_short_tv-ads-claude-code_1792599959",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/Dexj56IiObQ/",
+"error": null,
+"posted": "2026-10-21T23:13:36+00:00"
+},
+{
+"id": "tiktok_2026-10-19_short_tv-ads-claude-code_1792599960",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7699268960008555798",
+"error": null,
+"posted": "2026-10-21T23:36:35+00:00"
+},
+{
+"id": "threads_2026-10-19_short_tv-ads-claude-code_1792599960",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/DexkjYljqAH",
+"error": null,
+"posted": "2026-10-21T23:19:15+00:00"
+},
+{
+"id": "instagram_2026-10-19_short_13-skills-instagram-week_1792600102",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/Dexo5rWDYSq/",
+"error": null,
+"posted": "2026-10-21T23:57:33+00:00"
+},
+{
+"id": "tiktok_2026-10-19_short_13-skills-instagram-week_1792600103",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7699280074201140502",
+"error": null,
+"posted": "2026-10-22T00:19:49+00:00"
+},
+{
+"id": "threads_2026-10-19_short_13-skills-instagram-week_1792600104",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/DexplMsj5cB",
+"error": null,
+"posted": "2026-10-22T00:03:19+00:00"
+},
+{
+"id": "instagram_2026-10-20_short_15-skills-youtubers_1792600240",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/DexybuVAJaz/",
+"error": null,
+"posted": "2026-10-22T01:20:50+00:00"
+},
+{
+"id": "tiktok_2026-10-20_short_15-skills-youtubers_1792600241",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7699297523655183618",
+"error": null,
+"posted": "2026-10-22T01:27:52+00:00"
+},
+{
+"id": "threads_2026-10-20_short_15-skills-youtubers_1792600241",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/DexyiiXj9vs",
+"error": null,
+"posted": "2026-10-22T01:21:35+00:00"
+},
+{
+"id": "instagram_2026-10-21_short_lost-bitcoin_1792674726",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/De0E4_0jyvB/",
+"error": null,
+"posted": "2026-10-22T22:40:15+00:00"
+},
+{
+"id": "tiktok_2026-10-21_short_lost-bitcoin_1792674727",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7699627846234279190",
+"error": null,
+"posted": "2026-10-22T22:49:07+00:00"
+},
+{
+"id": "threads_2026-10-21_short_lost-bitcoin_1792674727",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/De0E9nuipqm",
+"error": null,
+"posted": "2026-10-22T22:41:04+00:00"
+},
+{
+"id": "facebook_2026-10-21_short_lost-bitcoin_1792674727",
+"status": "done",
+"permalink": "https://www.facebook.com/reel/914360628279807/",
+"error": null,
+"posted": "2026-10-22T22:41:16+00:00"
+},
+{
+"id": "x_2026-10-21_short_lost-bitcoin_1792674728",
+"status": "done",
+"permalink": "https://x.com/zanexai0/status/2113400578105614808",
+"error": null,
+"posted": "2026-10-22T22:42:32+00:00"
+},
+{
+"id": "instagram_2026-10-21_short_five-agents-at-once_1792674906",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/De0PtwIIFap/",
+"error": null,
+"posted": "2026-10-23T00:15:08+00:00"
+},
+{
+"id": "tiktok_2026-10-21_short_five-agents-at-once_1792674906",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7699654866091642134",
+"error": null,
+"posted": "2026-10-23T00:34:11+00:00"
+},
+{
+"id": "threads_2026-10-21_short_five-agents-at-once_1792674907",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/De0P0VxgeHH",
+"error": null,
+"posted": "2026-10-23T00:15:54+00:00"
+},
+{
+"id": "facebook_2026-10-21_short_five-agents-at-once_1792674907",
+"status": "failed",
+"permalink": null,
+"error": "HTTP 400 b'{\"error\":{\"message\":\"Confirmez votre identit\\\\u00e9 avant de pouvoir publier au nom de cette Page. Ouvrez l\\\\u2019application\\\\u00a0Facebook sur votre t\\\\u00e9l\\\\u00e9phone et suivez les instructions.\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeutsC9A3o7DcDllFKCR_x7xsD0_n4r9a'",
+"posted": null
+},
+{
+"id": "x_2026-10-21_short_five-agents-at-once_1792674907",
+"status": "done",
+"permalink": "https://x.com/zanexai0/status/2113424471600324854",
+"error": null,
+"posted": "2026-10-23T00:17:29+00:00"
+},
+{
+"id": "instagram_2026-10-20_short_claude-motion-graphics-now_1792693332",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/De0aBJNCmqN/",
+"error": null,
+"posted": "2026-10-23T01:45:06+00:00"
+},
+{
+"id": "tiktok_2026-10-20_short_claude-motion-graphics-now_1792693333",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7699675182482394390",
+"error": null,
+"posted": "2026-10-23T01:53:13+00:00"
+},
+{
+"id": "threads_2026-10-20_short_claude-motion-graphics-now_1792693333",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/De0aHNiDE0c",
+"error": null,
+"posted": "2026-10-23T01:45:50+00:00"
+},
+{
+"id": "facebook_2026-10-20_short_claude-motion-graphics-now_1792693333",
+"status": "failed",
+"permalink": null,
+"error": "HTTP 400 b'{\"error\":{\"message\":\"Confirmez votre identit\\\\u00e9 avant de pouvoir publier au nom de cette Page. Ouvrez l\\\\u2019application\\\\u00a0Facebook sur votre t\\\\u00e9l\\\\u00e9phone et suivez les instructions.\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuAb7qzggDigy7Q7IOvpx8tPESkuIR2B'",
+"posted": null
+},
+{
+"id": "x_2026-10-20_short_claude-motion-graphics-now_1792693334",
+"status": "done",
+"permalink": "https://x.com/zanexai0/status/2113446949722714321",
+"error": null,
+"posted": "2026-10-23T01:46:47+00:00"
+},
+{
+"id": "instagram_2026-10-21_short_ai-guessed-my-iq_1792811310",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/De3JTXaicp8/",
+"error": null,
+"posted": "2026-10-24T03:16:42+00:00"
+},
+{
+"id": "tiktok_2026-10-21_short_ai-guessed-my-iq_1792811314",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7700071258372853014",
+"error": null,
+"posted": "2026-10-24T03:30:08+00:00"
+},
+{
+"id": "threads_2026-10-21_short_ai-guessed-my-iq_1792811314",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/De3JZBUD5p-",
+"error": null,
+"posted": "2026-10-24T03:17:26+00:00"
+},
+{
+"id": "facebook_2026-10-21_short_ai-guessed-my-iq_1792811315",
+"status": "failed",
+"permalink": null,
+"error": "HTTP 400 b'{\"error\":{\"message\":\"Confirmez votre identit\\\\u00e9 avant de pouvoir publier au nom de cette Page. Ouvrez l\\\\u2019application\\\\u00a0Facebook sur votre t\\\\u00e9l\\\\u00e9phone et suivez les instructions.\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuu8rMJjpjLt4kjGyayHFD0t4uhsUxZj'",
+"posted": null
+},
+{
+"id": "x_2026-10-21_short_ai-guessed-my-iq_1792811315",
+"status": "done",
+"permalink": "https://x.com/zanexai0/status/2113832443065278707",
+"error": null,
+"posted": "2026-10-24T03:18:36+00:00"
+},
+{
+"id": "instagram_2026-10-19_short_claude-code-dumber-after-an-hour_1792819913",
+"status": "failed",
+"permalink": null,
+"error": "container ERROR: {'status_code': 'ERROR', 'id': '17927370372423910'}",
+"posted": null
+},
+{
+"id": "tiktok_2026-10-19_short_claude-code-dumber-after-an-hour_1792819917",
+"status": "failed",
+"permalink": null,
+"error": "tiktok_post.mjs exit 1: 2026-10-25T03:24:56.716Z ERROR download HTTP 403 (video.mp4)",
+"posted": null
+},
+{
+"id": "threads_2026-10-19_short_claude-code-dumber-after-an-hour_1792819918",
+"status": "failed",
+"permalink": null,
+"error": "container ERROR: {'id': '18173865853473497', 'status': 'ERROR'}",
+"posted": null
+},
+{
+"id": "facebook_2026-10-19_short_claude-code-dumber-after-an-hour_1792819919",
+"status": "failed",
+"permalink": null,
+"error": "facebook upload still in_progress after 10 min",
+"posted": null
+},
+{
+"id": "x_2026-10-19_short_claude-code-dumber-after-an-hour_1792819919",
+"status": "failed",
+"permalink": null,
+"error": "x_post.mjs exit 1: 2026-10-25T02:09:36.287Z ERROR video download HTTP 403",
+"posted": null
+},
+{
+"id": "instagram_2026-10-19_short_skill-that-installs-skills_1792833708",
+"status": "failed",
+"permalink": null,
+"error": "container ERROR: {'status_code': 'ERROR', 'id': '17927356467423910'}",
+"posted": null
+},
+{
+"id": "tiktok_2026-10-19_short_skill-that-installs-skills_1792833713",
+"status": "failed",
+"permalink": null,
+"error": "tiktok_post.mjs exit 1: 2026-10-25T00:12:54.486Z ERROR download HTTP 403 (video.mp4)",
+"posted": null
+},
+{
+"id": "threads_2026-10-19_short_skill-that-installs-skills_1792833713",
+"status": "failed",
+"permalink": null,
+"error": "container ERROR: {'id': '18173845135473497', 'status': 'ERROR'}",
+"posted": null
+},
+{
+"id": "facebook_2026-10-19_short_skill-that-installs-skills_1792833714",
+"status": "failed",
+"permalink": null,
+"error": "facebook upload still in_progress after 10 min",
+"posted": null
+},
+{
+"id": "x_2026-10-19_short_skill-that-installs-skills_1792833714",
+"status": "failed",
+"permalink": null,
+"error": "x_post.mjs exit 1: 2026-10-25T00:07:52.859Z ERROR video download HTTP 403",
+"posted": null
+},
+{
+"id": "facebook_2026-10-19_short_claude-code-dumber-after-an-hour_1792819919_r1025",
+"status": "failed",
+"permalink": null,
+"error": "facebook upload still in_progress after 10 min",
+"posted": null
+},
+{
+"id": "facebook_2026-10-19_short_skill-that-installs-skills_1792833714_r1025",
+"status": "failed",
+"permalink": null,
+"error": "facebook upload still in_progress after 10 min",
+"posted": null
+},
+{
+"id": "instagram_2026-10-19_short_claude-code-dumber-after-an-hour_1792819913_r1025",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/De5nJQ1AE_1/",
+"error": null,
+"posted": "2026-10-25T02:16:26+00:00"
+},
+{
+"id": "instagram_2026-10-19_short_skill-that-installs-skills_1792833708_r1025",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/De5hTkwE5jr/",
+"error": null,
+"posted": "2026-10-25T01:25:02+00:00"
+},
+{
+"id": "threads_2026-10-19_short_claude-code-dumber-after-an-hour_1792819918_r1025",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/De5nS_ij8vP",
+"error": null,
+"posted": "2026-10-25T02:17:11+00:00"
+},
+{
+"id": "threads_2026-10-19_short_skill-that-installs-skills_1792833713_r1025",
+"status": "done",
+"permalink": "https://www.threads.com/@zanexai/post/De5hcDUkiDb",
+"error": null,
+"posted": "2026-10-25T01:26:07+00:00"
+},
+{
+"id": "tiktok_2026-10-19_short_claude-code-dumber-after-an-hour_1792819917_r1025",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7700430673722494230",
+"error": null,
+"posted": "2026-10-25T02:44:49+00:00"
+},
+{
+"id": "tiktok_2026-10-19_short_skill-that-installs-skills_1792833713_r1025",
+"status": "done",
+"permalink": "https://www.tiktok.com/@zanexai/video/7700415037751430422",
+"error": null,
+"posted": "2026-10-25T01:44:02+00:00"
+},
+{
+"id": "x_2026-10-19_short_claude-code-dumber-after-an-hour_1792819919_r1025",
+"status": "done",
+"permalink": "https://x.com/zanexai0/status/2114179604269191452",
+"error": null,
+"posted": "2026-10-25T02:18:06+00:00"
+},
+{
+"id": "x_2026-10-19_short_skill-that-installs-skills_1792833714_r1025",
+"status": "done",
+"permalink": "https://x.com/zanexai0/status/2114166836199932209",
+"error": null,
+"posted": "2026-10-25T01:27:22+00:00"
+},
+{
+"id": "instagram_2099-01-01_short_media-host-test_1792899303",
+"status": "failed",
+"permalink": null,
+"error": "2099 media host test, never posted (cancelled by hand)",
+"posted": null
+},
+{
+"id": "tiktok_2099-01-01_short_media-host-test_1792899324",
+"status": "failed",
+"permalink": null,
+"error": "2099 media host test, never posted (cancelled by hand)",
+"posted": null
+},
+{
+"id": "threads_2099-01-01_short_media-host-test_1792899325",
+"status": "failed",
+"permalink": null,
+"error": "2099 media host test, never posted (cancelled by hand)",
+"posted": null
+},
+{
+"id": "facebook_2099-01-01_short_media-host-test_1792899327",
+"status": "failed",
+"permalink": null,
+"error": "2099 media host test, never posted (cancelled by hand)",
+"posted": null
+},
+{
+"id": "x_2099-01-01_short_media-host-test_1792899329",
+"status": "failed",
+"permalink": null,
+"error": "2099 media host test, never posted (cancelled by hand)",
+"posted": null
+}
+]
