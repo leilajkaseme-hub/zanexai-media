@@ -716,5 +716,19 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-20_short_remove-phone-people-search_cover-1792900991.jpg"
+},
+{
+"id": "threads_2026-10-20_short_remove-phone-people-search_1792901053",
+"platform": "threads",
+"at": "2026-10-25T17:07:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-20_short_remove-phone-people-search_tt-1792901015.mp4",
+"text": "If your phone number is online: people search sites show it to anyone who types your name. I sent a robot to 5 of their removal pages and 3 blocked it before the page even loaded. Would you trust Claude with the rest?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-20_short_remove-phone-people-search",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-20_short_remove-phone-people-search_cover-1792900991.jpg",
+"alt_text": "Removal pages of people search sites, three of them blocking an automated browser, and the Spokeo opt out form with a fake example person."
 }
 ]
