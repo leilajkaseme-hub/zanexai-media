@@ -1,0 +1,38 @@
+# Builds the public file site of leilajkaseme-hub/zanexai-media from the assets of the release "media".
+# The files live as release assets (never in git history), so deleting an asset really frees the space.
+# Run by post_next_day.py (workflow_dispatch) after each upload or delete; every 6 h as a safety net.
+name: pages
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Download every asset of the release "media"
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p site
+          n=$(gh release view media -R "$GITHUB_REPOSITORY" --json assets --jq '.assets | length')
+          echo "assets: $n"
+          if [ "$n" -gt 0 ]; then gh release download media -R "$GITHUB_REPOSITORY" -D site --clobber; fi
+          touch site/.nojekyll
+          echo '<!doctype html><title>zanexai media</title>' > site/index.html
+          du -sh site; ls -la site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
