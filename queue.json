@@ -730,5 +730,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-20_short_remove-phone-people-search_cover-1792900991.jpg",
 "alt_text": "Removal pages of people search sites, three of them blocking an automated browser, and the Spokeo opt out form with a fake example person."
+},
+{
+"id": "facebook_2026-10-20_short_remove-phone-people-search_1792901055",
+"platform": "facebook",
+"at": "2026-10-25T17:07:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-20_short_remove-phone-people-search_tt-1792901015.mp4",
+"text": "If your phone number is online, people search sites can show it to anyone who types your name.\n\nI sent a robot to five of their removal pages. Three of them blocked it before the page even loaded. Anthropic says Claude in Chrome can fill in these forms in your own browser, but the captcha and the email link stay with you.\n\nThe person in the video is a fake example. Would you trust Claude with this job?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-20_short_remove-phone-people-search",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-20_short_remove-phone-people-search_cover-1792900991.jpg",
+"title": "People Search Sites Blocked My Robot"
 }
 ]
