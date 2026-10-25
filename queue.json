@@ -40,5 +40,19 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2099-01-01_short_media-host-test_cover-1792899285.jpg"
+},
+{
+"id": "facebook_2099-01-01_short_media-host-test_1792899327",
+"platform": "facebook",
+"at": "2099-01-01T00:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2099-01-01_short_media-host-test_tt-1792899305.mp4",
+"text": "TEST 2099 never posted",
+"status": "pending",
+"max_tries": 2,
+"source": "/private/tmp/claude-502/-Users-Shared-Claude/11420ded-fb4a-43d5-942e-ca3fcf07c308/scratchpad/testroot/2099-01-01_short_media-host-test",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2099-01-01_short_media-host-test_cover-1792899285.jpg",
+"title": "TEST media host 2099 (never posted)"
 }
 ]
