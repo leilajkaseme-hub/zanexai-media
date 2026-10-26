@@ -628,5 +628,21 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-16_short_i-asked-4-ais-the-same-impossible-question_cover-1793057527.jpg"
+},
+{
+"id": "instagram_2026-10-22_short_told-chatgpt-it-was-wrong_1793057845",
+"platform": "instagram",
+"at": "2026-10-27T15:06:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-22_short_told-chatgpt-it-was-wrong_ig-1793057799.mp4",
+"text": "I told ChatGPT it was wrong when it was right, to see if it would just agree with me 🤖\n\n9.11 or 9.9? It said 9.9. I pushed back twice, even said my math teacher agreed. It never folded: \"I can't honestly admit I was wrong.\"\n\nThen I added one custom instruction, and now it splits every answer into what it knows for sure and what it's guessing.\n\nIf you want the exact custom instruction I used, comment HONEST and I'll send it to you.\n\n#chatgpt #ai #openai #aitips #chatgpttips",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-22_short_told-chatgpt-it-was-wrong",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-22_short_told-chatgpt-it-was-wrong_cover-1793057808.jpg",
+"thumb_offset_ms": 1000,
+"location_id": "108424279189115",
+"audio_name": "Zane AI original audio"
 }
 ]
