@@ -714,5 +714,18 @@
 "thumb_offset_ms": 1000,
 "location_id": "108424279189115",
 "audio_name": "Zane AI original audio"
+},
+{
+"id": "tiktok_2026-10-21_short_claude-code-made-this-video_1793058136",
+"platform": "tiktok",
+"at": "2026-10-28T16:23:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-21_short_claude-code-made-this-video_tt-1793058101.mp4",
+"text": "claude code made this whole video from one prompt, no editing app ☕ what would you make a video about? #claudecode #ai #videoediting #claude",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-21_short_claude-code-made-this-video",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-21_short_claude-code-made-this-video_cover-1793058055.jpg"
 }
 ]
