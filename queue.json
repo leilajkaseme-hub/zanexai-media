@@ -657,5 +657,19 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-22_short_told-chatgpt-it-was-wrong_cover-1793057808.jpg"
+},
+{
+"id": "threads_2026-10-22_short_told-chatgpt-it-was-wrong_1793057893",
+"platform": "threads",
+"at": "2026-10-27T15:06:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-22_short_told-chatgpt-it-was-wrong_tt-1793057855.mp4",
+"text": "If you use ChatGPT for facts: I told it 9.11 is bigger than 9.9, twice, and said my math teacher agreed. It never folded: \"I can't honestly admit I was wrong.\" Has ChatGPT ever changed its answer just to agree with you?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-22_short_told-chatgpt-it-was-wrong",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-22_short_told-chatgpt-it-was-wrong_cover-1793057808.jpg",
+"alt_text": "Real ChatGPT chat on a phone sized screen: the question 9.11 or 9.9, two push backs, and its answers keeping 9.9, then the custom instructions box."
 }
 ]
