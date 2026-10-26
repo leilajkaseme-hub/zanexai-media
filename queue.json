@@ -601,5 +601,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-16_short_i-asked-4-ais-the-same-impossible-question_cover-1793057527.jpg",
 "alt_text": "Real screenshots of ChatGPT, Gemini, Claude and Perplexity answering the same river crossing trick question with one crossing, and a 2024 news article about AI models failing a simple river puzzle."
+},
+{
+"id": "facebook_2026-10-16_short_i-asked-4-ais-the-same-impossible-question_1793057643",
+"platform": "facebook",
+"at": "2026-10-27T00:20:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-16_short_i-asked-4-ais-the-same-impossible-question_tt-1793057602.mp4",
+"text": "I tried to trick four AIs with the same question: a farmer has to take a wolf, a goat and a cabbage across a river, and his boat fits all of them at once. How many crossings does he need?\n\nChatGPT, Gemini, Claude and Perplexity all said one, which is right. Claude even called the question a trap. Back in 2024, some AI models answered puzzles like this with five crossings.\n\nGot a trick question that still fools them? Leave it in the comments.",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-16_short_i-asked-4-ais-the-same-impossible-question",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-16_short_i-asked-4-ais-the-same-impossible-question_cover-1793057527.jpg",
+"title": "I Tried to Trick AI"
 }
 ]
