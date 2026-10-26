@@ -698,5 +698,21 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-22_short_told-chatgpt-it-was-wrong_cover-1793057808.jpg"
+},
+{
+"id": "instagram_2026-10-21_short_claude-code-made-this-video_1793058091",
+"platform": "instagram",
+"at": "2026-10-28T16:09:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-21_short_claude-code-made-this-video_ig-1793058047.mp4",
+"text": "Claude Code made this video of the coffee I drank this week, and I never opened an editing app ☕\n\nIt wrote the whole video as a web page, and HyperFrames (free and open source) turned it into an MP4 in about 12 seconds. The first try had an empty first frame and a blank punchline, so it fixed both.\n\n23 cups. Sunday was not a day of rest.\n\nIf you want the exact prompt I used, comment COFFEE and I'll send it to you.\n\n#claudecode #ai #videoediting #hyperframes #claude",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-21_short_claude-code-made-this-video",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-21_short_claude-code-made-this-video_cover-1793058055.jpg",
+"thumb_offset_ms": 1000,
+"location_id": "108424279189115",
+"audio_name": "Zane AI original audio"
 }
 ]
