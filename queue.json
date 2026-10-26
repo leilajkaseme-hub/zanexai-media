@@ -727,5 +727,19 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-21_short_claude-code-made-this-video_cover-1793058055.jpg"
+},
+{
+"id": "threads_2026-10-21_short_claude-code-made-this-video_1793058138",
+"platform": "threads",
+"at": "2026-10-28T16:09:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-21_short_claude-code-made-this-video_tt-1793058101.mp4",
+"text": "If you still edit every video by hand: Claude Code made this 10 second video of my coffee week from one prompt. It wrote it as a web page and HyperFrames rendered it in about 12 seconds. First try had two flaws, it fixed both. What would you make a video about?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-21_short_claude-code-made-this-video",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-21_short_claude-code-made-this-video_cover-1793058055.jpg",
+"alt_text": "Zane shows a short coffee tracking video that Claude Code built as a web page and rendered with HyperFrames."
 }
 ]
