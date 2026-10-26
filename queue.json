@@ -741,5 +741,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-21_short_claude-code-made-this-video_cover-1793058055.jpg",
 "alt_text": "Zane shows a short coffee tracking video that Claude Code built as a web page and rendered with HyperFrames."
+},
+{
+"id": "facebook_2026-10-21_short_claude-code-made-this-video_1793058141",
+"platform": "facebook",
+"at": "2026-10-28T16:09:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-21_short_claude-code-made-this-video_tt-1793058101.mp4",
+"text": "Claude Code made this video of the coffee I drank this week, and I never opened an editing app.\n\nOne prompt: 2, 3, 1, 4, 5, 2, 6 cups, make it fun. Claude wrote it as a web page and a free tool called HyperFrames turned it into a real video in about 12 seconds. The first try had an empty first frame, so it fixed it.\n\nWhat would you make a video about?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-21_short_claude-code-made-this-video",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-21_short_claude-code-made-this-video_cover-1793058055.jpg",
+"title": "Claude Code Made This Video"
 }
 ]
