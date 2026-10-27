@@ -616,6 +616,13 @@
 "posted": "2026-10-27T15:08:54+00:00"
 },
 {
+"id": "facebook_2026-10-22_short_told-chatgpt-it-was-wrong_1793057896",
+"status": "failed",
+"permalink": null,
+"error": "HTTP 400 b'{\"error\":{\"message\":\"Confirmez votre identit\\\\u00e9 avant de pouvoir publier au nom de cette Page. Ouvrez l\\\\u2019application\\\\u00a0Facebook sur votre t\\\\u00e9l\\\\u00e9phone et suivez les instructions.\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetSrBTrAdpv3ZT-fg33khlDyZX5DxfYA'",
+"posted": null
+},
+{
 "id": "x_2026-10-22_short_told-chatgpt-it-was-wrong_1793057899",
 "status": "failed",
 "permalink": null,
