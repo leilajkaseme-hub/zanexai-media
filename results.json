@@ -686,6 +686,13 @@
 "posted": "2026-10-29T17:06:35+00:00"
 },
 {
+"id": "facebook_2026-10-29_short_chatgpt-password_1793228406",
+"status": "failed",
+"permalink": null,
+"error": "HTTP 400 b'{\"error\":{\"message\":\"Confirmez votre identit\\\\u00e9 avant de pouvoir publier au nom de cette Page. Ouvrez l\\\\u2019application\\\\u00a0Facebook sur votre t\\\\u00e9l\\\\u00e9phone et suivez les instructions.\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevcHLEu_rFLptWsp4NHJ-mQO_Nopo-e1'",
+"posted": null
+},
+{
 "id": "x_2026-10-29_short_chatgpt-password_1793228409",
 "status": "done",
 "permalink": "https://x.com/zanexai0/status/2115852983753994640",
