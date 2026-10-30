@@ -719,5 +719,12 @@
 "permalink": null,
 "error": "HTTP 400 b'{\"error\":{\"message\":\"Confirmez votre identit\\\\u00e9 avant de pouvoir publier au nom de cette Page. Ouvrez l\\\\u2019application\\\\u00a0Facebook sur votre t\\\\u00e9l\\\\u00e9phone et suivez les instructions.\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes6y-_G0CumbycvCtIXvvM0dEUk-tsg7'",
 "posted": null
+},
+{
+"id": "x_2026-10-30_short_ai-agent-pay_1793375309",
+"status": "failed",
+"permalink": null,
+"error": "check: Post was clicked but not confirmed, check x by hand: 2026-10-30T23:34:47.858Z Post clicked but the new post was not found on the profile",
+"posted": "2026-10-30T23:33:59+00:00"
 }
 ]
