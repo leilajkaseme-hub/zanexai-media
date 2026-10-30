@@ -348,5 +348,21 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_ai-agent-pay_cover-1793375171.jpg"
+},
+{
+"id": "instagram_2026-10-30_short_claude-code-app-rebuilt_1793376610",
+"platform": "instagram",
+"at": "2026-10-31T01:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_claude-code-app-rebuilt_ig-1793376496.mp4",
+"text": "Anthropic rebuilt the Claude Code desktop app 👀\n\n1. your chat starts its own helper chats, and they report back\n2. the sidebar shows what needs you, what's working, what's done\n\nThen I asked for 2 tiny apps and it built both at once.\n\nWant the full list of what changed (+ my exact prompt)? Comment HELPER.\n\n#claudecode #claude #ai #anthropic",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-30_short_claude-code-app-rebuilt",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_claude-code-app-rebuilt_cover-1793376499.jpg",
+"thumb_offset_ms": 1000,
+"location_id": "108424279189115",
+"audio_name": "Zane AI original audio"
 }
 ]
