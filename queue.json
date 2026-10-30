@@ -391,5 +391,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_claude-code-app-rebuilt_cover-1793376499.jpg",
 "alt_text": "Top: Anthropic's own demo of the rebuilt Claude Code desktop app; bottom: Theo saying the hook. New thing one: 3 helper chats appear under the main chat and report back. New thing two (dark): the sidebar groups Needs input, Working, Completed. Then the two real apps Claude built side by side, a tip calculator and a 10 minute timer, stamped BUILT AT ONCE."
+},
+{
+"id": "facebook_2026-10-30_short_claude-code-app-rebuilt_1793376666",
+"platform": "facebook",
+"at": "2026-10-31T01:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_claude-code-app-rebuilt_tt-1793376612.mp4",
+"text": "Anthropic rebuilt the Claude Code desktop app on 15 October. Two things you notice right away:\n\n1. Your chat can start helper chats that sit under it and report back.\n2. The sidebar shows which chats need you, which are working and which are done.\n\nI asked it for two tiny apps (a tip calculator and a timer) and it built both at the same time.\n\nOfficial release notes: https://claude.com/docs/cowork/changelog\n\nWhich one would you use first?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-30_short_claude-code-app-rebuilt",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_claude-code-app-rebuilt_cover-1793376499.jpg",
+"title": "The Claude Code App Was Rebuilt"
 }
 ]
