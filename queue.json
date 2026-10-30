@@ -294,5 +294,18 @@
 "thumb_offset_ms": 1000,
 "location_id": "108424279189115",
 "audio_name": "Zane AI original audio"
+},
+{
+"id": "tiktok_2026-10-30_short_ai-agent-pay_1793375303",
+"platform": "tiktok",
+"at": "2026-10-30T23:25:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_ai-agent-pay_tt-1793375237.mp4",
+"text": "told 3 AIs to buy me a charger… none of them even opened amazon 😅 would you let an AI pay for you? #ai #chatgpt #aiagents #gemini #claude",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-30_short_ai-agent-pay",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_ai-agent-pay_cover-1793375171.jpg"
 }
 ]
