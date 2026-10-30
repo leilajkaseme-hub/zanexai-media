@@ -405,5 +405,18 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_claude-code-app-rebuilt_cover-1793376499.jpg",
 "title": "The Claude Code App Was Rebuilt"
+},
+{
+"id": "x_2026-10-30_short_claude-code-app-rebuilt_1793376668",
+"platform": "x",
+"at": "2026-10-31T01:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_claude-code-app-rebuilt_tt-1793376612.mp4",
+"text": "Anthropic rebuilt the Claude Code desktop app (15 Oct): helper chats that report back, and a sidebar sorted into needs you / working / done. I asked for 2 tiny apps, it built both at once. Which would you use first? https://claude.com/docs/cowork/changelog",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-30_short_claude-code-app-rebuilt",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_claude-code-app-rebuilt_cover-1793376499.jpg"
 }
 ]
