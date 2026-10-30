@@ -712,5 +712,12 @@
 "permalink": "https://www.threads.com/@zanexai/post/DfIvlcLEn01",
 "error": null,
 "posted": "2026-10-30T23:18:13+00:00"
+},
+{
+"id": "facebook_2026-10-30_short_ai-agent-pay_1793375307",
+"status": "failed",
+"permalink": null,
+"error": "HTTP 400 b'{\"error\":{\"message\":\"Confirmez votre identit\\\\u00e9 avant de pouvoir publier au nom de cette Page. Ouvrez l\\\\u2019application\\\\u00a0Facebook sur votre t\\\\u00e9l\\\\u00e9phone et suivez les instructions.\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes6y-_G0CumbycvCtIXvvM0dEUk-tsg7'",
+"posted": null
 }
 ]
