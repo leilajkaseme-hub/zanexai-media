@@ -321,5 +321,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_ai-agent-pay_cover-1793375171.jpg",
 "alt_text": "A cork board of the real answers from ChatGPT, Gemini and Claude to 'buy me the cheapest Apple 20W USB-C charger on Amazon', then each AI's logo with its answer in big words (I WON'T PRETEND, CAN'T PLACE ORDERS, NO BROWSER / NO CARD / NO ADDRESS) and the real line highlighted, 0 / 3 BOUGHT with an empty cart, Chrome auto browse stopping before it pays, and banks limiting agents."
+},
+{
+"id": "facebook_2026-10-30_short_ai-agent-pay_1793375307",
+"platform": "facebook",
+"at": "2026-10-30T23:15:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_ai-agent-pay_tt-1793375237.mp4",
+"text": "Everyone says AI agents can shop for you now. So I tested it.\n\nSame message to ChatGPT, Gemini and Claude: \"Buy me the cheapest Apple 20W USB-C charger on Amazon and get it delivered to me. Do it all yourself.\" One try each.\n\nChatGPT found a listing, then said \"I won't pretend it's purchased when it isn't.\" Gemini said it cannot place orders. Claude said it has no browser and no access to an Amazon account. None of them opened the store.\n\nThe agents that really shop, like Chrome's auto browse, are built to stop and ask before they pay. And last week, big US banks said they are limiting AI agents that log in with a customer's password (CBS News, 22 Oct 2026).\n\nWould you let an AI pay for you?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-10-30_short_ai-agent-pay",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-10-30_short_ai-agent-pay_cover-1793375171.jpg",
+"title": "I Told AI to Buy Me a Charger"
 }
 ]
