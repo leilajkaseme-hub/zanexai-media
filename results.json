@@ -733,5 +733,12 @@
 "permalink": null,
 "error": "check: Post was clicked but not confirmed, check x by hand: 2026-10-30T23:34:47.858Z Post clicked but the new post was not found on the profile",
 "posted": "2026-10-30T23:33:59+00:00"
+},
+{
+"id": "instagram_2026-10-30_short_claude-code-app-rebuilt_1793376610",
+"status": "done",
+"permalink": "https://www.instagram.com/reel/DfI7g91jzlS/",
+"error": null,
+"posted": "2026-10-31T01:02:36+00:00"
 }
 ]
