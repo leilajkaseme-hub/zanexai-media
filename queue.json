@@ -348,5 +348,21 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-01_short_claude-stock-market_cover-1793546580.jpg"
+},
+{
+"id": "instagram_2026-11-01_short_ai-robot-body_1793546777",
+"platform": "instagram",
+"at": "2026-11-01T16:10:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-01_short_ai-robot-body_ig-1793546734.mp4",
+"text": "A video of an AI building its own robot body got 2.5M views this week. What really happened: their AI gave the ideas, robot maker Will Cogley built it, and the hands snapped off 3 seconds after power on. Which AI? The video never says.\n\nWhat AI running a real robot looks like: Anthropic let Claude set up a robot dog alone, 9.5 min vs 181 min for the faster human team. It still couldn't fetch the beach ball.\n\nIf you want the original video and Anthropic's test, comment ROBOT and I'll send you both.\n\n#ai #robot #claude #aiagents #robotics",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-01_short_ai-robot-body",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-01_short_ai-robot-body_cover-1793546742.jpg",
+"thumb_offset_ms": 1000,
+"location_id": "108424279189115",
+"audio_name": "Zane AI original audio"
 }
 ]
