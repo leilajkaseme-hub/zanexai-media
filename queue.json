@@ -364,5 +364,18 @@
 "thumb_offset_ms": 1000,
 "location_id": "108424279189115",
 "audio_name": "Zane AI original audio"
+},
+{
+"id": "tiktok_2026-11-01_short_ai-robot-body_1793547095",
+"platform": "tiktok",
+"at": "2026-11-01T16:20:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-01_short_ai-robot-body_tt-1793546784.mp4",
+"text": "\"AI built its own robot body\"… the hands snapped off in 3 seconds 💀 would you let an AI design your robot? #ai #robot #claude #aiagents #robotics",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-01_short_ai-robot-body",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-01_short_ai-robot-body_cover-1793546742.jpg"
 }
 ]
