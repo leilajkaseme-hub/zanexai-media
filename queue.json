@@ -294,5 +294,18 @@
 "thumb_offset_ms": 1000,
 "location_id": "108424279189115",
 "audio_name": "Zane AI original audio"
+},
+{
+"id": "tiktok_2026-11-01_short_claude-stock-market_1793546657",
+"platform": "tiktok",
+"at": "2026-11-01T15:32:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-01_short_claude-stock-market_tt-1793546622.mp4",
+"text": "claude has been moving the stock market all year… and now anthropic filed to list on nasdaq as ANT 📈 which one surprised you most? not investment advice #claude #anthropic #ai #stockmarket #nasdaq",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-01_short_claude-stock-market",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-01_short_claude-stock-market_cover-1793546580.jpg"
 }
 ]
