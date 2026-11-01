@@ -321,5 +321,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-01_short_claude-stock-market_cover-1793546580.jpg",
 "alt_text": "White grid paper with yellow stickers: the ANT ticker, the Claude and Nasdaq logos and the real S-1 cover, then 5 numbered items: Thomson Reuters and LegalZoom logos with the real Thomson Reuters daily close line dropping red, -15.7%; Claude Mythos, THOUSANDS OF HOLES, Zscaler's real line dropping, -11.3%; the Anthropic logo and a $965B counter with Orrick's real headline; Schwab, BlackRock and Vanguard logos plugged into Claude with Anthropic's 'no investment advice' quote; the S-1 FILED, Nasdaq, a big ANT sticker and the real S-1 line 'under the symbol ANT'. Ends with 'Not investment advice. No stock picks.'"
+},
+{
+"id": "facebook_2026-11-01_short_claude-stock-market_1793546662",
+"platform": "facebook",
+"at": "2026-11-01T15:22:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-01_short_claude-stock-market_tt-1793546622.mp4",
+"text": "Anthropic filed to list on Nasdaq last Monday (26 Oct), ticker ANT. But Claude has been moving the stock market all year:\n\n1. 3 Feb: after Claude Cowork got legal plugins, Thomson Reuters fell 15.7% and LegalZoom 19.7% in one day.\n2. 9 Apr: Claude Mythos found thousands of security holes, and Zscaler closed down 11.3%.\n3. May: investors valued Anthropic at $965 billion.\n4. September: Claude plugged into tools from Schwab, BlackRock and Vanguard.\n5. 26 Oct: the S-1, Nasdaq, symbol ANT.\n\nPrices = daily closes. Not investment advice, no stock picks. Which one surprised you most?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-01_short_claude-stock-market",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-01_short_claude-stock-market_cover-1793546580.jpg",
+"title": "Claude Keeps Moving the Stock Market"
 }
 ]
