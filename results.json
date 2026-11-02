@@ -840,6 +840,13 @@
 "posted": null
 },
 {
+"id": "facebook_2026-11-01_short_ai-robot-body_1793547099_r1102",
+"status": "failed",
+"permalink": null,
+"error": "HTTP 400 b'{\"error\":{\"message\":\"Confirmez votre identit\\\\u00e9 avant de pouvoir publier au nom de cette Page. Ouvrez l\\\\u2019application\\\\u00a0Facebook sur votre t\\\\u00e9l\\\\u00e9phone et suivez les instructions.\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevUCI-lJZn8-viOqQtEy8x5siTpHuLKs'",
+"posted": null
+},
+{
 "id": "facebook_2026-11-01_short_claude-stock-market_1793546662_r1102",
 "status": "failed",
 "permalink": null,
