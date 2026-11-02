@@ -2137,7 +2137,7 @@
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_cover-1793644105.jpg",
 "video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_tt-1793644156.mp4",
 "permalink": null,
-"error": null,
+"error": "tiktok_post.mjs exit 1: 2026-11-02T19:30:22.405Z ERROR unknown pop up open before Post button: \"Edit cover Cancel Save Sticker Text Sticker Scale Upload cover Zane AI - Following - Followers - Likes Preview in profile (4:3)\"",
 "posted": null,
 "published_id": null
 },
