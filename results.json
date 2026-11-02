@@ -768,5 +768,12 @@
 "permalink": "https://x.com/zanexai0/status/2116335377892180136",
 "error": null,
 "posted": "2026-10-31T01:04:22+00:00"
+},
+{
+"id": "instagram_2026-11-01_short_claude-stock-market_1793546616",
+"status": "failed",
+"permalink": null,
+"error": "late: due 2026-11-01T15:22:00Z, still not posted 6 h later: held, not posted",
+"posted": null
 }
 ]
