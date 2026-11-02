@@ -777,6 +777,13 @@
 "posted": null
 },
 {
+"id": "tiktok_2026-11-01_short_claude-stock-market_1793546657",
+"status": "failed",
+"permalink": null,
+"error": "late: due 2026-11-01T15:32:00Z, still not posted 6 h later: held, not posted",
+"posted": null
+},
+{
 "id": "threads_2026-11-01_short_claude-stock-market_1793546659",
 "status": "failed",
 "permalink": null,
