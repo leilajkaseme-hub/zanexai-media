@@ -307,5 +307,19 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_cover-1793644105.jpg"
+},
+{
+"id": "threads_2026-11-02_short_claude-game_1793644216",
+"platform": "threads",
+"at": "2026-11-02T19:15:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_tt-1793644156.mp4",
+"text": "I gave Claude Code one sentence. 2.5 minutes later: one file, 641 lines, a knight, enemies, benches and a boss fight. One bug: die once and the boss bar follows you everywhere. What game should I make it build next?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-02_short_claude-game",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_cover-1793644105.jpg",
+"alt_text": "Theo talks in a rounded card at the bottom. On top: the finished browser game made by Claude Code, a white horned knight fighting the Armored Husk boss in a dark blue cave, a Claude Code terminal where the one sentence types itself, Write index.html and Wrote 641 lines with a 2:34 sticker and the real code scrolling, then close-ups of the game: double jump, dash and slash, orange bugs, spikes, a bench and the boss, and a red ring on the boss health bar that stays on screen after the knight wakes at the bench."
 }
 ]
