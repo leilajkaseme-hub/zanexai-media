@@ -335,5 +335,18 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_cover-1793644105.jpg",
 "title": "I Asked Claude for a Video Game"
+},
+{
+"id": "x_2026-11-02_short_claude-game_1793644220",
+"platform": "x",
+"at": "2026-11-02T19:15:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_tt-1793644156.mp4",
+"text": "I gave Claude Code one sentence: \"Make me a Hollow Knight style game I can play in my browser.\" 2.5 min later: 641 lines, one file, a boss fight. One bug: die once and the boss bar follows you everywhere. What should it build next?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-02_short_claude-game",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_cover-1793644105.jpg"
 }
 ]
