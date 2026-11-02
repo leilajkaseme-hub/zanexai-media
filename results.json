@@ -789,5 +789,12 @@
 "permalink": null,
 "error": "late: due 2026-11-01T15:22:00Z, still not posted 6 h later: held, not posted",
 "posted": null
+},
+{
+"id": "x_2026-11-01_short_claude-stock-market_1793546664",
+"status": "failed",
+"permalink": null,
+"error": "late: due 2026-11-01T15:22:00Z, still not posted 6 h later: held, not posted",
+"posted": null
 }
 ]
