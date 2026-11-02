@@ -2165,7 +2165,7 @@
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_cover-1793644105.jpg",
 "video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_tt-1793644156.mp4",
 "permalink": null,
-"error": null,
+"error": "HTTP 400 b'{\"error\":{\"message\":\"Confirmez votre identit\\\\u00e9 avant de pouvoir publier au nom de cette Page. Ouvrez l\\\\u2019application\\\\u00a0Facebook sur votre t\\\\u00e9l\\\\u00e9phone et suivez les instructions.\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetMQrlsMfiQniQW1",
 "posted": null,
 "published_id": null
 },
@@ -2173,14 +2173,14 @@
 "id": "x_2026-11-02_short_claude-game_1793644220",
 "platform": "x",
 "at": "2026-11-02T19:15:00Z",
-"status": "pending",
+"status": "done",
 "text": "I gave Claude Code one sentence: \"Make me a Hollow Knight style game I can play in my browser.\" 2.5 min later: 641 lines, one file, a boss fight. One bug: die once and the boss bar follows you everywhere. What should it build next?",
 "title": null,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_cover-1793644105.jpg",
 "video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_tt-1793644156.mp4",
-"permalink": null,
+"permalink": "https://x.com/zanexai0/status/2117335648856093089",
 "error": null,
-"posted": null,
-"published_id": null
+"posted": "2026-11-02T19:19:06+00:00",
+"published_id": "x"
 }
 ]
