@@ -348,5 +348,21 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-game_cover-1793644105.jpg"
+},
+{
+"id": "instagram_2026-11-02_short_claude-screenshot-app_1793745303",
+"platform": "instagram",
+"at": "2026-11-03T23:30:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-screenshot-app_ig-1793745250.mp4",
+"text": "I gave Claude Code one screenshot of the iPhone calculator and one prompt. 81 seconds later: one file, almost the same app, and it really works (12 × 7 = 84). The one funny miss: it copied the clock too, so it's stuck at 9:41 forever.\n\nWant the exact prompt? Comment CLONE and I'll send it to you.\n\n#claudecode #claude #ai #vibecoding #webdesign",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-02_short_claude-screenshot-app",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-screenshot-app_cover-1793745265.jpg",
+"thumb_offset_ms": 1000,
+"location_id": "108424279189115",
+"audio_name": "Zane AI original audio"
 }
 ]
