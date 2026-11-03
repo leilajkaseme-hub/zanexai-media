@@ -405,5 +405,18 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-screenshot-app_cover-1793745265.jpg",
 "title": "Claude Code Rebuilt an App From One Screenshot"
+},
+{
+"id": "x_2026-11-02_short_claude-screenshot-app_1793745359",
+"platform": "x",
+"at": "2026-11-03T23:30:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-screenshot-app_tt-1793745310.mp4",
+"text": "I gave Claude Code one screenshot of the iPhone calculator. One prompt, 81 seconds, one HTML file: almost the same app, and it works. It even copied the clock, stuck at 9:41 forever. Could you tell which one is real?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-02_short_claude-screenshot-app",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-screenshot-app_cover-1793745265.jpg"
 }
 ]
