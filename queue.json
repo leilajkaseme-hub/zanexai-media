@@ -475,5 +475,18 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_cover-1793745609.jpg",
 "title": "I Built a Robot That Posts My Clothes on Vinted"
+},
+{
+"id": "x_2026-11-03_short_vinted-tunnel_1793745717",
+"platform": "x",
+"at": "2026-11-04T00:15:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_tt-1793745659.mp4",
+"text": "I built a robot that posts my clothes on Vinted: 1 plain photo in → ChatGPT remakes 5 angles on my Mac mini → Claude writes the listing → my Chrome extension posts it. Would you let a robot sell your clothes?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-03_short_vinted-tunnel",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_cover-1793745609.jpg"
 }
 ]
