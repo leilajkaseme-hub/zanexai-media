@@ -461,5 +461,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_cover-1793745609.jpg",
 "alt_text": "A Vinted-style listing for a grey V-neck t-shirt gets a POSTED stamp. Then: a plain photo of the t-shirt on a table, a Pinterest grid where one outfit photo pops out with 1,075 hearts, the real ChatGPT window making photos, a Mac mini, five photos of the same t-shirt (front, back, side, detail, flat lay), a Claude card typing the title and description, a €8 price tag, and a Vinted-style form filling itself before the listing is posted."
+},
+{
+"id": "facebook_2026-11-03_short_vinted-tunnel_1793745714",
+"platform": "facebook",
+"at": "2026-11-04T00:15:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_tt-1793745659.mp4",
+"text": "I built a robot that posts my clothes on Vinted for me. I take one plain photo of a t-shirt and grab a Pinterest pose with over a thousand likes. Claude has ChatGPT on my Mac mini remake every angle: front, back, side, detail, flat lay. Claude writes the title, the description and the price, and my own Chrome extension fills in Vinted and posts it.\n\nWould you let a robot sell your clothes?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-03_short_vinted-tunnel",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_cover-1793745609.jpg",
+"title": "I Built a Robot That Posts My Clothes on Vinted"
 }
 ]
