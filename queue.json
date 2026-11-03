@@ -391,5 +391,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-screenshot-app_cover-1793745265.jpg",
 "alt_text": "Theo talks to the camera in a rounded card at the bottom. Above him: Apple's picture of the iPhone calculator, the one-line prompt, a dark terminal counting to 81 seconds with 'Read calculator.png' and 'Write index.html', then the real picture and the rebuilt page side by side, the rebuilt calculator in use (12 × 7 = 84, then 0.7734), and a zoom on its status bar clock stuck at 9:41."
+},
+{
+"id": "facebook_2026-11-02_short_claude-screenshot-app_1793745356",
+"platform": "facebook",
+"at": "2026-11-03T23:30:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-screenshot-app_tt-1793745310.mp4",
+"text": "I gave Claude Code one screenshot of an app: Apple's own picture of the iPhone calculator. One prompt, one try. 81 seconds later it handed me one file. Side by side it's almost the same app, and it really works: 12 × 7 = 84. The one funny miss: it copied the status bar too, so the clock is stuck at 9:41 forever. Could you tell which one is real?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-02_short_claude-screenshot-app",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-screenshot-app_cover-1793745265.jpg",
+"title": "Claude Code Rebuilt an App From One Screenshot"
 }
 ]
