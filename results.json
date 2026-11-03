@@ -847,6 +847,13 @@
 "posted": null
 },
 {
+"id": "facebook_2026-11-01_short_claude-stock-market_1793546662_r1102",
+"status": "failed",
+"permalink": null,
+"error": "late: due 2026-11-02T19:49:20Z, still not posted 6 h later: held, not posted",
+"posted": null
+},
+{
 "id": "instagram_2026-11-01_short_ai-robot-body_1793546777_r1102",
 "status": "done",
 "permalink": "https://www.instagram.com/reel/DfOGqFfD3VM/",
