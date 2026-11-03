@@ -434,5 +434,18 @@
 "thumb_offset_ms": 1000,
 "location_id": "108424279189115",
 "audio_name": "Zane AI original audio"
+},
+{
+"id": "tiktok_2026-11-03_short_vinted-tunnel_1793745709",
+"platform": "tiktok",
+"at": "2026-11-04T00:25:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_tt-1793745659.mp4",
+"text": "my vinted listings make themselves now 🤖 one plain photo in, 5 photos + title + price out. would you let a robot sell your clothes? #vinted #ai #claude #chatgpt #reseller",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-03_short_vinted-tunnel",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_cover-1793745609.jpg"
 }
 ]
