@@ -2201,14 +2201,14 @@
 "id": "tiktok_2026-11-02_short_claude-screenshot-app_1793745350",
 "platform": "tiktok",
 "at": "2026-11-03T23:40:00Z",
-"status": "pending",
+"status": "check",
 "text": "one screenshot → one prompt → 81 seconds later, a working iPhone calculator 😳 (it even copied the 9:41 clock) could you tell which one is real? #claudecode #claude #ai #vibecoding #webdesign",
 "title": null,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-screenshot-app_cover-1793745265.jpg",
 "video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-02_short_claude-screenshot-app_tt-1793745310.mp4",
 "permalink": null,
-"error": null,
-"posted": null,
+"error": "Post was clicked but not confirmed, check tiktok by hand: 2026-11-03T23:42:57.605Z UNCLEAR after Post was clicked: TikTok said it could not post",
+"posted": "2026-11-03T23:42:09+00:00",
 "published_id": null
 },
 {

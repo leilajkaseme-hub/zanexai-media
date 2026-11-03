@@ -952,6 +952,13 @@
 "posted": "2026-11-03T23:34:48+00:00"
 },
 {
+"id": "tiktok_2026-11-02_short_claude-screenshot-app_1793745350",
+"status": "failed",
+"permalink": null,
+"error": "check: Post was clicked but not confirmed, check tiktok by hand: 2026-11-03T23:42:57.605Z UNCLEAR after Post was clicked: TikTok said it could not post",
+"posted": "2026-11-03T23:42:09+00:00"
+},
+{
 "id": "threads_2026-11-02_short_claude-screenshot-app_1793745353",
 "status": "done",
 "permalink": "https://www.threads.com/@zanexai/post/DfTEvaGSjcb",
