@@ -931,6 +931,13 @@
 "posted": "2026-11-02T19:18:06+00:00"
 },
 {
+"id": "facebook_2026-11-02_short_claude-game_1793644218",
+"status": "failed",
+"permalink": null,
+"error": "late: due 2026-11-02T19:49:20Z, still not posted 6 h later: held, not posted",
+"posted": null
+},
+{
 "id": "x_2026-11-02_short_claude-game_1793644220",
 "status": "done",
 "permalink": "https://x.com/zanexai0/status/2117335648856093089",
