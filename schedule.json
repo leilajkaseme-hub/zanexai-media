@@ -2305,7 +2305,7 @@
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_cover-1793745609.jpg",
 "video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_tt-1793745659.mp4",
 "permalink": null,
-"error": null,
+"error": "Facebook asks to confirm your identity before the Zane AI Page can post. Open the Facebook app on your phone and follow the steps. Facebook posts wait until then, none are lost.",
 "posted": null,
 "published_id": null
 },
@@ -2313,14 +2313,14 @@
 "id": "x_2026-11-03_short_vinted-tunnel_1793745717",
 "platform": "x",
 "at": "2026-11-04T00:15:00Z",
-"status": "pending",
+"status": "done",
 "text": "I built a robot that posts my clothes on Vinted: 1 plain photo in → ChatGPT remakes 5 angles on my Mac mini → Claude writes the listing → my Chrome extension posts it. Would you let a robot sell your clothes?",
 "title": null,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_cover-1793745609.jpg",
 "video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-03_short_vinted-tunnel_tt-1793745659.mp4",
-"permalink": null,
+"permalink": "https://x.com/zanexai0/status/2117773950176416102",
 "error": null,
-"posted": null,
-"published_id": null
+"posted": "2026-11-04T00:20:45+00:00",
+"published_id": "x"
 }
 ]
