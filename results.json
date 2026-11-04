@@ -966,6 +966,13 @@
 "posted": "2026-11-03T23:35:34+00:00"
 },
 {
+"id": "facebook_2026-11-02_short_claude-screenshot-app_1793745356",
+"status": "failed",
+"permalink": null,
+"error": "late: due 2026-11-03T23:30:00Z, still not posted 6 h later: held, not posted",
+"posted": null
+},
+{
 "id": "x_2026-11-02_short_claude-screenshot-app_1793745359",
 "status": "done",
 "permalink": "https://x.com/zanexai0/status/2117762961779339299",
