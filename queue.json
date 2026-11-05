@@ -405,5 +405,18 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_cover-1793917977.jpg",
 "title": "I Gave Claude a Stranger's Photo. Can It Find the Street?"
+},
+{
+"id": "x_2026-11-07_short_photo-location_1793918227",
+"platform": "x",
+"at": "2026-11-07T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_tt-1793918021.mp4",
+"text": "Gave Claude 3 strangers' photos, no GPS, no web search. Lisbon 285 m off. Reykjavik 577 m (it read the house number). Kyoto 3.7 km, backup guess 194 m. Would you still post photos online?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-07_short_photo-location",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_cover-1793917977.jpg"
 }
 ]
