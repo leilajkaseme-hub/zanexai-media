@@ -335,5 +335,18 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-05_short_claude-engine_cover-1793917043.jpg",
 "title": "I Asked Claude How an Engine Works. It Built One."
+},
+{
+"id": "x_2026-11-05_short_claude-engine_1793917155",
+"platform": "x",
+"at": "2026-11-05T23:15:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-05_short_claude-engine_tt-1793917095.mp4",
+"text": "I asked Claude how a car engine works → it built one in my browser. Floor it: 6,400 rpm. Cut the spark: 0. Hold start: it fires. It tested its own physics first (idle 2,019 rpm ✗ → ~810 ✓). What should it build next?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-05_short_claude-engine",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-05_short_claude-engine_cover-1793917043.jpg"
 }
 ]
