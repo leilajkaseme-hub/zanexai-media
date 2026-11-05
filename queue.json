@@ -461,5 +461,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-06_short_which-claude-plane_cover-1793918288.jpg",
 "alt_text": "Three square game windows with blue skies, labelled Haiku 5.5, Sonnet 5.5 and Opus 5.5. A terminal shows the one sentence. Haiku's paper plane lands and slides along the grass (SLIDING, red). Sonnet's plane draws small loops in the sky (LOOPS, red). A terminal shows Opus testing its physics: 'The physics checks out: steady glides of roughly 6:1'. Opus's plane leaves a rooftop and glides far (GLIDES, green). A scoreboard: Haiku 4.5 min cross, Sonnet 61 s cross, Opus 8.3 min check."
+},
+{
+"id": "facebook_2026-11-06_short_which-claude-plane_1793918657",
+"platform": "facebook",
+"at": "2026-11-06T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-06_short_which-claude-plane_tt-1793918326.mp4",
+"text": "I gave three Claude models the exact same sentence: make a paper airplane game with real physics. Then I threw every plane six times.\n\nHaiku took 4.5 minutes and its plane slides along the grass. Sonnet was done in one minute and its plane just does loops. Opus took eight minutes, tested its own physics first, and it's the only plane that really glides.\n\nWhich Claude model do you use?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-06_short_which-claude-plane",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-06_short_which-claude-plane_cover-1793918288.jpg",
+"title": "Same Sentence, 3 Claude Models: Which Plane Flies?"
 }
 ]
