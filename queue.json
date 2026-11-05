@@ -391,5 +391,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_cover-1793917977.jpg",
 "alt_text": "A street photo in Lisbon with tags NO CAPTION and NO GPS, then red circles on a number plate, a Pingo Doce sign and a clinic sign. An OpenStreetMap map with a blue CLAUDE pin and a red REAL SPOT pin, a dashed line and 285 m. A yellow house in Reykjavik, zoom on the door plate, No 10, map 577 m. A black and white Kyoto street, map 3.7 km, then the backup guess 194 m, tags NO WEB SEARCH and under 30 seconds."
+},
+{
+"id": "facebook_2026-11-07_short_photo-location_1793918224",
+"platform": "facebook",
+"at": "2026-11-07T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_tt-1793918021.mp4",
+"text": "I gave Claude three strangers' photos. No caption, no location data, no web search. One question: where was this taken?\n\nLisbon: 285 metres from the real spot. Reykjavik: 577 metres, and it read the house number from the door. Kyoto: its first guess was 3.7 km off, its backup guess 194 m.\n\nWould you still post photos online?\n\nPhotos: Maria Eklind, Vera de Kok, Sergiy Galyonkin via Wikimedia Commons (CC BY-SA). Maps © OpenStreetMap contributors.",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-07_short_photo-location",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_cover-1793917977.jpg",
+"title": "I Gave Claude a Stranger's Photo. Can It Find the Street?"
 }
 ]
