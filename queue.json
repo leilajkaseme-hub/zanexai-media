@@ -377,5 +377,19 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-04_short_messy-folder_cover-1793837670.jpg"
+},
+{
+"id": "threads_2026-11-04_short_messy-folder_1793837745",
+"platform": "threads",
+"at": "2026-11-05T01:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-04_short_messy-folder_tt-1793837706.mp4",
+"text": "I gave Claude Code my messiest Downloads folder: 129 files, one sentence, 28 seconds, 21 folders. It even told me which of my 3 CV_final files to keep, and deleted nothing. Would you let AI clean your computer?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-04_short_messy-folder",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-04_short_messy-folder_cover-1793837670.jpg",
+"alt_text": "A cloud of 129 file names (screenshots, invoices, installers, three CV_final PDFs) scattered on the screen. A terminal shows the one sentence sent to Claude Code. A counter runs to 28 seconds and a card says 129 / 129 SORTED. Folder cards: Screenshots 34, Finance 13 with payslips and invoices, Travel with the boarding pass. Three CV files, the last one marked KEEP THIS ONE, and Claude Code's quote. A big 0 deleted."
 }
 ]
