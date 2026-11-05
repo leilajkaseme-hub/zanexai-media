@@ -1043,6 +1043,13 @@
 "posted": "2026-11-05T01:03:52+00:00"
 },
 {
+"id": "facebook_2026-11-04_short_messy-folder_1793837747",
+"status": "failed",
+"permalink": null,
+"error": "late: due 2026-11-05T01:00:00Z, still not posted 6 h later: held, not posted",
+"posted": null
+},
+{
 "id": "x_2026-11-04_short_messy-folder_1793837750",
 "status": "done",
 "permalink": "https://x.com/zanexai0/status/2118147471448928593",
