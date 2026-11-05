@@ -364,5 +364,18 @@
 "thumb_offset_ms": 1000,
 "location_id": "108424279189115",
 "audio_name": "Zane AI original audio"
+},
+{
+"id": "tiktok_2026-11-04_short_messy-folder_1793837743",
+"platform": "tiktok",
+"at": "2026-11-05T01:10:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-04_short_messy-folder_tt-1793837706.mp4",
+"text": "my downloads folder had 129 files 💀 one sentence to claude code, 28 seconds later everything was in a folder. would you let AI clean your computer? #claudecode #ai #claude #productivity",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-04_short_messy-folder",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-04_short_messy-folder_cover-1793837670.jpg"
 }
 ]
