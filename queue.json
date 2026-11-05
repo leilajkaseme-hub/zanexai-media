@@ -418,5 +418,21 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_cover-1793917977.jpg"
+},
+{
+"id": "instagram_2026-11-06_short_which-claude-plane_1793918324",
+"platform": "instagram",
+"at": "2026-11-06T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-06_short_which-claude-plane_ig-1793918282.mp4",
+"text": "Same sentence to 3 Claude models: build me a paper plane game with real physics. Then I threw each plane 6 times.\n\nHaiku: lands and slides on the grass. Sonnet: loops. Opus: took 8 minutes, tested its own physics, and it actually glides.\n\nComment PLANE and I'll send you the exact sentence.\n\n#claudecode #ai #claude #aitest #vibecoding",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-06_short_which-claude-plane",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-06_short_which-claude-plane_cover-1793918288.jpg",
+"thumb_offset_ms": 1000,
+"location_id": "108424279189115",
+"audio_name": "Zane AI original audio"
 }
 ]
