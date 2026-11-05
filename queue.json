@@ -377,5 +377,19 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_cover-1793917977.jpg"
+},
+{
+"id": "threads_2026-11-07_short_photo-location_1793918221",
+"platform": "threads",
+"at": "2026-11-07T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_tt-1793918021.mp4",
+"text": "I gave Claude 3 strangers' photos with no location data and web search off. Lisbon: 285 m off. Reykjavik: 577 m, and it read the house number. Kyoto: 3.7 km, backup guess 194 m. Would you still post photos online?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-07_short_photo-location",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_cover-1793917977.jpg",
+"alt_text": "A street photo in Lisbon with tags NO CAPTION and NO GPS, then red circles on a number plate, a Pingo Doce sign and a clinic sign. An OpenStreetMap map with a blue CLAUDE pin and a red REAL SPOT pin, a dashed line and 285 m. A yellow house in Reykjavik, zoom on the door plate, No 10, map 577 m. A black and white Kyoto street, map 3.7 km, then the backup guess 194 m, tags NO WEB SEARCH and under 30 seconds."
 }
 ]
