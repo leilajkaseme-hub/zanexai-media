@@ -475,5 +475,18 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-06_short_which-claude-plane_cover-1793918288.jpg",
 "title": "Same Sentence, 3 Claude Models: Which Plane Flies?"
+},
+{
+"id": "x_2026-11-06_short_which-claude-plane_1793918661",
+"platform": "x",
+"at": "2026-11-06T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-06_short_which-claude-plane_tt-1793918326.mp4",
+"text": "Same sentence → Haiku, Sonnet, Opus: a paper plane game with real physics. 6 throws each.\nHaiku 4.5 min: slides on the grass ✗\nSonnet 1 min: loops ✗\nOpus 8 min: tested its own physics, glides ✓\nWhich Claude model do you use?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-06_short_which-claude-plane",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-06_short_which-claude-plane_cover-1793918288.jpg"
 }
 ]
