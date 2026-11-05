@@ -321,5 +321,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-05_short_claude-engine_cover-1793917043.jpg",
 "alt_text": "A cutaway of a one cylinder engine on a dark web page: valves, spark plug, piston and crankshaft move in slow motion, the chamber turns orange on the power stroke. A terminal shows the one sentence sent to Claude Code and a 14:43 timer. The rev counter climbs past 6,000 with a red 6,400 RPM tag, falls to 0 RPM when the spark is cut, and jumps back when START is held. A terminal shows its own test: idle 2,019 rpm crossed out, then about 810 rpm."
+},
+{
+"id": "facebook_2026-11-05_short_claude-engine_1793917153",
+"platform": "facebook",
+"at": "2026-11-05T23:15:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-05_short_claude-engine_tt-1793917095.mp4",
+"text": "I asked Claude how a car engine works, in one sentence. About 15 minutes later it had built a working engine I can play with in my browser. The orange is the fuel burning, that push turns your wheels. Floor it and it revs past 6,000. Cut the spark and it dies. Hold start and it fires again. And it tested its own engine before giving it to me.\n\nWhat should I make it build next?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-05_short_claude-engine",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-05_short_claude-engine_cover-1793917043.jpg",
+"title": "I Asked Claude How an Engine Works. It Built One."
 }
 ]
