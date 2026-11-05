@@ -364,5 +364,18 @@
 "thumb_offset_ms": 1000,
 "location_id": "108424279189115",
 "audio_name": "Zane AI original audio"
+},
+{
+"id": "tiktok_2026-11-07_short_photo-location_1793918217",
+"platform": "tiktok",
+"at": "2026-11-07T23:10:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_tt-1793918021.mp4",
+"text": "gave claude a stranger's photo with no location 📍 it got within 285 metres. one photo, no web search, under 30 seconds. would you still post photos online? #claude #ai #geoguessr #privacy",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-07_short_photo-location",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_cover-1793917977.jpg"
 }
 ]
