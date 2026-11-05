@@ -348,5 +348,21 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-05_short_claude-engine_cover-1793917043.jpg"
+},
+{
+"id": "instagram_2026-11-07_short_photo-location_1793918016",
+"platform": "instagram",
+"at": "2026-11-07T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_ig-1793917922.mp4",
+"text": "I gave Claude 3 strangers' photos. No caption, no GPS, no web search. Where were they taken?\n\nLisbon: 285 m off. Reykjavik: 577 m, and it read the house number. Kyoto: 3.7 km, but its backup guess was 194 m.\n\nComment PHOTO and I'll send you the exact sentence.\n\nPhotos: Maria Eklind, Vera de Kok, Sergiy Galyonkin (Wikimedia Commons, CC BY-SA). Maps © OpenStreetMap.\n\n#claude #ai #geoguessr #privacy #claudecode",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-07_short_photo-location",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-07_short_photo-location_cover-1793917977.jpg",
+"thumb_offset_ms": 1000,
+"location_id": "108424279189115",
+"audio_name": "Zane AI original audio"
 }
 ]
