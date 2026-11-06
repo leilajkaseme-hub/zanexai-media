@@ -504,5 +504,18 @@
 "thumb_offset_ms": 1000,
 "location_id": "108424279189115",
 "audio_name": "Zane AI original audio"
+},
+{
+"id": "tiktok_2026-11-08_short_claude-computer_1793927888",
+"platform": "tiktok",
+"at": "2026-11-08T23:10:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_tt-1793927657.mp4",
+"text": "one sentence, 18 minutes, a whole computer in a web page 💻 it even tested every app itself. is coding still worth learning, or is that over? #ai #claudecode #tech",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-08_short_claude-computer",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_cover-1793927603.jpg"
 }
 ]
