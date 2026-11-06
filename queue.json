@@ -488,5 +488,21 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-06_short_which-claude-plane_cover-1793918288.jpg"
+},
+{
+"id": "instagram_2026-11-08_short_claude-computer_1793927653",
+"platform": "instagram",
+"at": "2026-11-08T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_ig-1793927564.mp4",
+"text": "One sentence, 18 minutes: Claude Code built a whole computer in one web page.\nTerminal, Paint, Minesweeper, Snake, a piano, and it tested every app itself.\n\nSo is coding still worth learning, or is that over?\n\n#ai #claudecode #tech #coding",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-08_short_claude-computer",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_cover-1793927603.jpg",
+"thumb_offset_ms": 1000,
+"location_id": "108424279189115",
+"audio_name": "Zane AI original audio"
 }
 ]
