@@ -727,5 +727,19 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-11_short_receipt-split_cover-1793928582.jpg"
+},
+{
+"id": "threads_2026-11-11_short_receipt-split_1793928741",
+"platform": "threads",
+"at": "2026-11-11T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-11_short_receipt-split_tt-1793928649.mp4",
+"text": "Four people, one receipt in Korean, one photo to Claude. 13 seconds, every number right.\nWould you let AI split your bill, or is that asking for a fight?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-11_short_receipt-split",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-11_short_receipt-split_cover-1793928582.jpg",
+"alt_text": "A Korean restaurant receipt, the sentence typed in a terminal, a big 13 seconds, the item lines, big amounts 31,000 / 16,000 / 13,000 won, the 76,000 total circled in red, then the question in big white words."
 }
 ]
