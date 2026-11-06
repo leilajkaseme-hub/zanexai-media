@@ -698,5 +698,21 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-10_short_claude-breaks-in_cover-1793928319.jpg"
+},
+{
+"id": "instagram_2026-11-11_short_receipt-split_1793928647",
+"platform": "instagram",
+"at": "2026-11-11T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-11_short_receipt-split_ig-1793928566.mp4",
+"text": "Four people, one receipt in Korean, one photo to Claude.\n13 seconds later it split the bill, and every number was right.\n\nWould you let AI split your bill, or is that asking for a fight?\n\n#ai #claude #lifehack #tech",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-11_short_receipt-split",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-11_short_receipt-split_cover-1793928582.jpg",
+"thumb_offset_ms": 1000,
+"location_id": "108424279189115",
+"audio_name": "Zane AI original audio"
 }
 ]
