@@ -574,5 +574,18 @@
 "thumb_offset_ms": 1000,
 "location_id": "108424279189115",
 "audio_name": "Zane AI original audio"
+},
+{
+"id": "tiktok_2026-11-09_short_three-ais-draw_1793928142",
+"platform": "tiktok",
+"at": "2026-11-09T23:10:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-09_short_three-ais-draw_tt-1793928103.mp4",
+"text": "same sentence to 3 AIs: draw a cat on a bike, code only 🐱🚲 one of them drew nothing. which cat wins, or is AI art still a joke? #ai #chatgpt #claude",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-09_short_three-ais-draw",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-09_short_three-ais-draw_cover-1793928066.jpg"
 }
 ]
