@@ -558,5 +558,21 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_cover-1793927603.jpg"
+},
+{
+"id": "instagram_2026-11-09_short_three-ais-draw_1793928100",
+"platform": "instagram",
+"at": "2026-11-09T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-09_short_three-ais-draw_ig-1793928054.mp4",
+"text": "Same sentence to 3 AIs: draw a cat riding a bike, with code only.\nChatGPT drew a cute cat, Gemini drew nothing, Claude put the foot on the pedal.\n\nWhich cat wins? Or is AI art still a joke?\n\n#ai #chatgpt #claude #tech",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-09_short_three-ais-draw",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-09_short_three-ais-draw_cover-1793928066.jpg",
+"thumb_offset_ms": 1000,
+"location_id": "108424279189115",
+"audio_name": "Zane AI original audio"
 }
 ]
