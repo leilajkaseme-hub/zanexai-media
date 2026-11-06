@@ -628,5 +628,21 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-09_short_three-ais-draw_cover-1793928066.jpg"
+},
+{
+"id": "instagram_2026-11-10_short_claude-breaks-in_1793928353",
+"platform": "instagram",
+"at": "2026-11-10T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-10_short_claude-breaks-in_ig-1793928303.mp4",
+"text": "One Claude built my app. A second Claude tried to hack it: 11 attacks in 68 seconds.\nIt could not get in, but it still found one real problem.\n\nWould you trust an app that AI built and AI checked?\n\n#ai #claudecode #cybersecurity #tech",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-10_short_claude-breaks-in",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-10_short_claude-breaks-in_cover-1793928319.jpg",
+"thumb_offset_ms": 1000,
+"location_id": "108424279189115",
+"audio_name": "Zane AI original audio"
 }
 ]
