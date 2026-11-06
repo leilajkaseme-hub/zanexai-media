@@ -755,5 +755,18 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-11_short_receipt-split_cover-1793928582.jpg",
 "title": "Splitting the Bill Always Starts a Fight. So I Asked AI."
+},
+{
+"id": "x_2026-11-11_short_receipt-split_1793928747",
+"platform": "x",
+"at": "2026-11-11T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-11_short_receipt-split_tt-1793928649.mp4",
+"text": "Four people, a receipt in Korean, one photo to Claude: split in 13 seconds, every number right.\nWould you let AI split your bill?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-11_short_receipt-split",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-11_short_receipt-split_cover-1793928582.jpg"
 }
 ]
