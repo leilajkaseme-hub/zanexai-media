@@ -545,5 +545,18 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_cover-1793927603.jpg",
 "title": "I Gave AI 18 Minutes to Build a Whole Computer"
+},
+{
+"id": "x_2026-11-08_short_claude-computer_1793927897",
+"platform": "x",
+"at": "2026-11-08T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_tt-1793927657.mp4",
+"text": "One sentence, 18 minutes: Claude Code built a whole computer in one web page. 10 apps, 2,102 lines, self-tested.\nIs coding still worth learning, or is that over?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-08_short_claude-computer",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_cover-1793927603.jpg"
 }
 ]
