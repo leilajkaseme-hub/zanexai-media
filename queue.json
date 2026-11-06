@@ -657,5 +657,19 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-10_short_claude-breaks-in_cover-1793928319.jpg"
+},
+{
+"id": "threads_2026-11-10_short_claude-breaks-in_1793928412",
+"platform": "threads",
+"at": "2026-11-10T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-10_short_claude-breaks-in_tt-1793928355.mp4",
+"text": "One Claude built my app, a second Claude tried to hack it: 11 attacks, 68 seconds, locked out, no way in. It still found one real problem.\nWould you trust an app AI built and AI checked?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-10_short_claude-breaks-in",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-10_short_claude-breaks-in_cover-1793928319.jpg",
+"alt_text": "Real code scrolling, the real login page and a TOP SECRET note circled in red, the attack sentence typed in a terminal, a big 11, the real Too many failed attempts page, Claude's words: I could not break in, and its HTTPS warning. Then the question in big white words."
 }
 ]
