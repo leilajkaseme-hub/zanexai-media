@@ -517,5 +517,19 @@
 "approved": true,
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_cover-1793927603.jpg"
+},
+{
+"id": "threads_2026-11-08_short_claude-computer_1793927891",
+"platform": "threads",
+"at": "2026-11-08T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_tt-1793927657.mp4",
+"text": "One sentence, 18 minutes: Claude Code built a whole computer in one web page. 10 working apps, and it tested every one itself.\nIs coding still worth learning, or is that over?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-08_short_claude-computer",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_cover-1793927603.jpg",
+"alt_text": "A full-screen recording of a desktop computer made in one web page: terminal, Paint, calculator showing 84, Minesweeper, Snake, a piano. The one sentence typed in a terminal, 18 min, 2,102 lines of code, the AI's own test screenshots, then the question in big white words."
 }
 ]
