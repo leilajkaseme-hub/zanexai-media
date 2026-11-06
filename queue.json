@@ -531,5 +531,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_cover-1793927603.jpg",
 "alt_text": "A full-screen recording of a desktop computer made in one web page: terminal, Paint, calculator showing 84, Minesweeper, Snake, a piano. The one sentence typed in a terminal, 18 min, 2,102 lines of code, the AI's own test screenshots, then the question in big white words."
+},
+{
+"id": "facebook_2026-11-08_short_claude-computer_1793927894",
+"platform": "facebook",
+"at": "2026-11-08T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_tt-1793927657.mp4",
+"text": "Operating systems take teams of engineers years. I gave Claude Code one sentence and 18 minutes.\nIt built Nimbus OS: one web page, 2,102 lines, a terminal, Paint, Minesweeper, Snake, a piano, and it tested every app itself.\n\nIs coding still a skill worth learning, or is that over?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-08_short_claude-computer",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-08_short_claude-computer_cover-1793927603.jpg",
+"title": "I Gave AI 18 Minutes to Build a Whole Computer"
 }
 ]
