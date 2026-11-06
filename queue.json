@@ -601,5 +601,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-09_short_three-ais-draw_cover-1793928066.jpg",
 "alt_text": "The sentence typed in a terminal. ChatGPT's cat on a bike drawn piece by piece, a red circle on its hanging legs. Gemini's answer: I'm having a hard time fulfilling your request. Claude's cat drawn piece by piece with circles on the paw, the pedal and the speed lines. Then the question in big white words."
+},
+{
+"id": "facebook_2026-11-09_short_three-ais-draw_1793928148",
+"platform": "facebook",
+"at": "2026-11-09T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-09_short_three-ais-draw_tt-1793928103.mp4",
+"text": "Everyone says AI can draw anything. I gave three AIs one simple job: a cat on a bike, in code, one try each.\nChatGPT drew a cute cat with its legs hanging, the free Gemini drew nothing, Claude put the foot on the pedal.\n\nWhich cat wins, left or right? Or is AI art still a joke?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-09_short_three-ais-draw",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-09_short_three-ais-draw_cover-1793928066.jpg",
+"title": "Everyone Says AI Can Draw Anything. So I Tested It."
 }
 ]
