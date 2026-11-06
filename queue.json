@@ -671,5 +671,19 @@
 "synthetic": false,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-10_short_claude-breaks-in_cover-1793928319.jpg",
 "alt_text": "Real code scrolling, the real login page and a TOP SECRET note circled in red, the attack sentence typed in a terminal, a big 11, the real Too many failed attempts page, Claude's words: I could not break in, and its HTTPS warning. Then the question in big white words."
+},
+{
+"id": "facebook_2026-11-10_short_claude-breaks-in_1793928414",
+"platform": "facebook",
+"at": "2026-11-10T23:00:00Z",
+"video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-10_short_claude-breaks-in_tt-1793928355.mp4",
+"text": "People ship apps built by AI every day. Are they safe? I made one Claude build a notes app and a second Claude try to hack it.\n11 attacks in 68 seconds, locked out after 5 wrong passwords, no way in. But it still found one real problem: no HTTPS.\n\nWould you trust an app that AI built and AI checked, or is that insane?",
+"status": "pending",
+"max_tries": 2,
+"source": "/Users/theo/Downloads/CAPCUT/daily/2026-11-10_short_claude-breaks-in",
+"approved": true,
+"synthetic": false,
+"cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-10_short_claude-breaks-in_cover-1793928319.jpg",
+"title": "I Made One Claude Try to Hack Another"
 }
 ]
