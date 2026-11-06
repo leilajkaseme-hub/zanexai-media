@@ -1078,6 +1078,13 @@
 "posted": "2026-11-05T23:21:23+00:00"
 },
 {
+"id": "facebook_2026-11-05_short_claude-engine_1793917153",
+"status": "failed",
+"permalink": null,
+"error": "late: due 2026-11-05T23:15:00Z, still not posted 6 h later: held, not posted",
+"posted": null
+},
+{
 "id": "x_2026-11-05_short_claude-engine_1793917155",
 "status": "done",
 "permalink": "https://x.com/zanexai0/status/2118484096405876904",
