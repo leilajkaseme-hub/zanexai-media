@@ -1113,6 +1113,13 @@
 "posted": "2026-11-07T23:23:19+00:00"
 },
 {
+"id": "facebook_2026-11-07_short_photo-location_1793918224",
+"status": "failed",
+"permalink": null,
+"error": "late: due 2026-11-07T23:00:00Z, still not posted 6 h later: held, not posted",
+"posted": null
+},
+{
 "id": "x_2026-11-07_short_photo-location_1793918227",
 "status": "done",
 "permalink": "https://x.com/zanexai0/status/2119204591648608683",
