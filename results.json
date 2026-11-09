@@ -1183,6 +1183,13 @@
 "posted": "2026-11-08T23:03:05+00:00"
 },
 {
+"id": "facebook_2026-11-08_short_claude-computer_1793927894",
+"status": "failed",
+"permalink": null,
+"error": "late: due 2026-11-08T23:00:00Z, still not posted 6 h later: held, not posted",
+"posted": null
+},
+{
 "id": "x_2026-11-08_short_claude-computer_1793927897",
 "status": "done",
 "permalink": "https://x.com/zanexai0/status/2119566662160830860",
