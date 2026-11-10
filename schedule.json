@@ -2789,15 +2789,15 @@
 "id": "threads_2026-11-10_short_claude-breaks-in_1793928412",
 "platform": "threads",
 "at": "2026-11-10T23:00:00Z",
-"status": "pending",
+"status": "done",
 "text": "One Claude built my app, a second Claude tried to hack it: 11 attacks, 68 seconds, locked out, no way in. It still found one real problem.\nWould you trust an app AI built and AI checked?",
 "title": null,
 "cover_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-10_short_claude-breaks-in_cover-1793928319.jpg",
 "video_url": "https://leilajkaseme-hub.github.io/zanexai-media/2026-11-10_short_claude-breaks-in_tt-1793928355.mp4",
-"permalink": null,
+"permalink": "https://www.threads.com/@zanexai/post/DflCdrkSyEc",
 "error": null,
-"posted": null,
-"published_id": null
+"posted": "2026-11-10T23:01:54+00:00",
+"published_id": "18142180261628415"
 },
 {
 "id": "facebook_2026-11-10_short_claude-breaks-in_1793928414",
